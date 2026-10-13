@@ -1,0 +1,8 @@
+.venv-build/
+.venv-run/
+dist/
+build/
+*.spec
+instalador/*.exe
+__pycache__/
+*.pyc
